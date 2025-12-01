@@ -1,0 +1,43 @@
+
+	Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+	https://www.ft.com/content/1e93adc5-4186-4775-a289-d684865da2ce
+
+	I can’t remember exactly when it started but some time in the last couple of months, AI went from being a topic of largely theoretical interest to an actively intrusive pest.
+
+It began when a bluish purple circle appeared unbidden on my WhatsApp screen. I ignored it at first, thinking I had mistakenly swiped on something that had made it materialise and hoping that with luck it would go away. 
+
+But one day, in a rush to message someone, I mistakenly tapped on the circle and discovered it was “Meta AI”, a chatbot eager to help me find a restaurant or a recipe or other things I never want to find on WhatsApp. 
+
+Thankfully, it described itself as an “optional service” from Meta, the Mark Zuckerberg company that owns WhatsApp, Facebook and Instagram. Phew, I thought. I’ll get rid of it, since it’s optional and the last thing I need to be doing is handing over yet more personal data to help make Zuckerberg’s $200bn-plus fortune even larger.
+
+But no. When I asked Meta AI how to delete Meta AI, I was told: “You can’t disable Meta AI, but engaging with it on WhatsApp is completely optional.” 
+
+Jolted by this breathtaking piece of guff, I realised something else: any time I tried to send an email, write a document or do virtually any other type of online work, AI barged in and tried to do it for me. 
+
+Composing a work email provoked the suggestion that I use Google’s Gemini AI to “help me write”, a tip that leaves me feeling the neurons shrivel as I read it.  
+
+If I opened an online document, there was Gemini again, bleating at me to “summarise this file” or “catch me up” on developments that might have occurred — but almost never had — since I last looked at the thing.
+
+Meanwhile, logging into my favourite online transcription service to read an interview has become more AI-infested by the week. 
+
+I have grown accustomed to being urged to “ask AI anything about this conversation” each time I try to read a transcript, a task I am — oddly enough — quite able to do by myself.
+
+This week, before I could even look at the transcript, I had to deal with a large pop-up informing me there was not one but two AI chat modes to choose from: express, which was “balanced for accuracy and speed”, and advanced, which was “enhanced for in-depth analysis”.
+
+Since I only wanted to skim through a hopefully accurate transcript as quickly as possible, I had zero interest in either.
+
+None of this would be so bad if AI were capable of doing something seriously useful, like whittling down my thousands of unread emails into a manageable list and, better yet, answering the most critical ones pronto. 
+
+I have been enthused about the profusion of AI tools that now claim to be able to conquer inbox chaos, but every review I read about them makes me doubt their utility.
+
+Of course they may improve and I admit some AI innovations are not bad, like the story summaries that several news groups, including the FT, have started to offer. 
+
+I can also imagine times it might be helpful to be able to rip through all the transcripts of, say, one’s last five executive meetings to check what one’s boss said about the latest revenue targets. 
+
+And I have to concede I may be in a minority. Meta AI has more than 1bn monthly users across all its apps, I discovered, when I messaged Meta to ask if it thought it was deceptive to call an undeletable chatbot optional. Unsurprisingly, it did not, pointing out that Meta AI was no different to other new WhatsApp features, such as camera effects, that people could take or leave — but not erase.
+
+Also, a spokesman told me, none of the conversations people have with the chatbot on WhatsApp are used to train Meta’s AI models.
+
+And although these interactions can be used to “personalise experiences” on platforms such as Facebook from mid-December, it will require people to add their WhatsApp account to a Meta accounts centre that includes Facebook.
+
+Considering how fast changing this stuff is, I live in hope that today’s tedious intrusions will soon fade as people adapt to it. In the meantime I would be thrilled if AI would do one thing: go away and let me get on with whatever I was doing before it interrupted.

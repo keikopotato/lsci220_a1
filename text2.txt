@@ -1,0 +1,47 @@
+Amid all the talk about the state of our economy, little noticed and even less discussed was June’s employment data. It showed that the unemployment rate for recent college graduates stood at 5.8%, topping the national level for the first and only time in its 45-year historical record.
+
+It’s an alarming number that needs to be considered in the context of a recent warning from Dario Amodei, CEO of AI juggernaut Anthropic, who predicted artificial intelligence could wipe out half of all entry-level, white-collar-jobs and spike unemployment to 10-20% in the next one to five years.
+
+The upshot: our college graduates’ woes could be just the tip of the spear.
+
+The warning is playing out in real-time, right before our eyes.  As someone who has spent nearly half a century as a professional risk manager, every alarm bell in my being is ringing, and they should be in yours, too. 
+
+Frighteningly, Washington doesn’t seem to be hearing anything because buried in the Trump administration’s Big Beautiful Bill is a proposed 10-year moratorium on states’ rights to enforce any laws or regulations “ limiting, restricting, or otherwise regulating artificial intelligence…systems.”  
+
+In AI time, 10 years is a millennium. Moreover, no one knows the “why” behind many of the answers today’s AI models give. And no one knows what AI will bring in even a year’s time, let alone 10.
+
+What’s behind this hands-off approach is a staunch belief in free market capitalism to maximize growth and social good. I strongly believe in capitalism and free markets. But we’ve seen the catastrophic downside of unfettered profit seeking. Just ask the families of the more than 800,000 Americans who have died from the opioid epidemic because the Food and Drug Administration didn’t do its regulatory job and stop a company’s reckless desire for profit.
+
+That is an extreme example, and in the case of AI, there is no doubt that recent innovations are going to do incredible things for humanity.
+
+But even as we celebrate technological progress, we should pause to consider the societal cost of these new tools.  We need vigorous debate—at the highest levels of government, in corporate boardrooms, and in society at large—about what “AI for good” looks like. We need to ask how society might share in the coming productivity gains. What responsibilities do AI companies have in developing these new technologies safely? And what is the government’s role in ensuring that these innovations benefit us all?
+
+If we follow the playbook of the last 45 years where over 92% of productivity gains went to shareholders over workers, and if Amodei is even half right on his unemployment prediction, you can bet we will face unprecedented social upheaval.
+
+In the worst-case scenario, the safety-net strains that high unemployment will place on states and municipalities will force many into bankruptcy. The federal government won’t be a good backstop because with a debt-to-GDP ratio of more than 120% it won’t have the borrowing power it once did. Bond markets will tank and take stocks with them.
+
+In other words, we simply cannot abide a 10-year pause on regulation just in case we discover something that needs changing. Every major financial disaster I have witnessed in my career, from the Crash of ’87 to the Long Term Capital Crisis of ’98 to the Great Financial Crisis, has been because someone sold optionality on something they did not fully understand. Must we do that again?
+
+Sadly, I have left the most dangerous aspect for last.
+
+Only months ago, Elon Musk stated that there was a 20% chance AI could wipe out humanity.
+
+He isn’t the only one. I recently attended a small conference with some of the titans of tech. There, four of the top AI developers agreed with the hypothesis that “AI has a 10% chance of killing half of humanity in the next 20 years.” One modeler even stated that in a world with no guardrails, AI will make it infinitely easier to weaponize a viral epidemic.
+
+Of course, beyond the belief in free markets, the central reason we are racing with blinders on to the unknown finish line is because of China, and the concern that, if they gain a decisive edge in AI, we will forever end up on the geopolitical and military backfoot. In the extreme case, China’s dominance could even end up posing a threat to humanity at large.
+
+But let’s examine the true odds. Yes, China could attempt to weaponize AI in a way that imperils humanity; but so could others, including assorted radicals and terror groups, if they are somehow able to develop the required technological expertise. 
+
+For me, the odds are 5% China and 95% others. After all, ending humanity is not what any leader strong enough to run a country wants as a legacy.
+
+So what should we do? First, we need to stop delaying efforts to make AI safe for humanity. And that means removing the ill-considered AI enforcement moratorium from the Big Beautiful Bill. 
+
+Second, we need to pass a federal law that says all AI must be watermarked so we know when the content we are consuming is AI generated. We also need to criminalize AI fraud and intent to harm. Humans will become irrelevant in the world we are headed for if we don’t demand human authenticity. 
+
+Third, we need to create a new U.S. bipartisan commission to address the crucial issues of productivity sharing, so we are proactive as AI bears down on us.
+
+And finally, we need to initiate bilateral talks with China to start establishing shared AI safety protocols to protect the entire world from mistakes and bad actors. 
+
+None of this is radical. It’s rational. The unemployment data on entry-level jobs is a call to action. The first signs of the societal disruptions of AI are already here.
+
+We built our democracy with the freedom to innovate and the wisdom to regulate. We need to do AI right and start by striking the moratorium on regulation.

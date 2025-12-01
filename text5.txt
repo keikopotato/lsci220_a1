@@ -1,0 +1,36 @@
+Most people in higher education fall into one of three categories when it comes to their stance on AI: those who believe that it is wonderful and should be used as much as possible, those who believe it’s evil and is destroying the world as we know it and those who think AI is a helpful tool when used in moderation.
+All three of those groups are wrong, mostly for one reason: AI is bad at what it does.
+
+First, I should clarify that when I say “AI,” what I mean are chatbots like ChatGPT or Google Gemini. It is important to know that there is a difference between generative AI, like chatbots or image and video generators, and other forms of AI, like spell check. I could just say chatbot or ChatGPT, but I’m going to feed into the narrative of AI being equal to chatbot for a little bit because it’s much easier.
+
+When people use AI to help with writing, it usually falls into four functions: generating ideas or outlines, fleshing them out, editing a full piece of text or summarizing large amounts of information. AI cannot do any of those things well.
+
+When using AI to generate ideas, the chatbots are trained to play it safe. They use uncontroversial opinions or repeat back what you said. For students, these ideas are usually unhelpful compared to one that you come up with independently, since these are ones that you’re likely more passionate about or confident in. For professors, using AI is a cheap alternative to using your own learned experiences: if students wanted to use AI, they would open an app instead of going to class.
+
+AI models will not give you an entirely new idea. They will give you one that has been done before. It might have worked, it might not have. It probably won’t tell you.
+
+Despite these drawbacks, however, generating ideas and outlines is still probably the best use of chatbots in an academic setting. If you want AI to expand that idea into a full essay, you run into a whole host of issues.
+
+The main problem is slop. What AI writes is a vapid, meaningless jumble of words that introduces no helpful talking points — with a style and tone that is easy to notice when you look for it. Not only does AI write boring, often difficult-to-follow text, but it does that in a way that often repeats itself, emphasizing its artificial roots.
+
+AI also uses promotional language and has a tendency to act like everything it’s saying is the most important thing on the planet, because of the text it’s trained in.
+
+Professional emails, syllabi and academic essays are not places for this kind of language. Important things should sound important. Unimportant things should sound unimportant.
+
+Other obvious examples include the famous em dash — which can be used impactfully in text, but could be replaced by a comma or semicolon and are often overused by AI; adding summaries where they don’t make sense, since AI is so used to adding summaries, and excessive negative parallelisms like “not only … but …” are all hallmarks of AI that often hit the ear wrong.
+
+Another common use of AI is editing full texts.
+
+Tools like Grammarly are specifically developed for editing and serve mostly as a supercharged spellcheck. Those are very nice, but it doesn’t mean that you should run your essay through ChatGPT and call it a day. AI editors are only helpful in addition to a human.
+
+AI editors often miss egregious errors, yet can rewrite sentences to match their own tone. Editing should be left to editing-specific programs instead of general ones, and should only be used in combination with a human.
+
+Finally, AI is used to summarize large pieces of information.
+
+On paper, AI summaries are great: they offer a way to skim text easily and get information quickly. However, the risk rate is far too high for many to be useful. Facts matter in any scenario, and AI summaries, possibly omitting information or misinterpreting and including incorrect information, make them too unreliable for regular use.
+
+Read the text. Skim it if you must. But do not trust one of these programs to do that for you; they often do not provide the same summary a human would.
+
+All these drawbacks lead to a tool that is generally unhelpful. In a world full of screws, AI is a hammer.
+
+The moral of the story is this: if what you’re doing actually matters, please don’t use AI. It is a tool with an uncomfortably high rate of error which makes it incredibly distinguishable from a human.

@@ -1,0 +1,33 @@
+As AI continues to expand and take jobs from writers, coders and others, the anxiety around it continues to grow.
+
+People shouldn’t be afraid to use AI as it can help us solve problems and offer other perspectives on an issue. The real issue arises when AI is the only thing used to solve a problem or produce a product without human involvement. 
+
+As AI continues to integrate itself into the world, new concerns arise about how it should be used and what it should do. In education, these questions are becoming more common and prevalent. New forms of technology continue to dig their roots into school, making answering these questions all the more important. 
+
+AI encompasses many different ideas in computer science, but at its core, AI merges datasets and computer science to solve problems, according to IBM, a technology consultant. The purpose of many AI technologies is to make predictions or classifications using input data. 
+
+The AI systems that cause concern are generative AI models that can take raw data and produce a statistically probable answer. While these  models might appear to provide real human answers, they are nowhere near the complexity of general AI, which thinks similarly to the human mind and is self-aware. 
+
+AI is already being used in the classroom by teachers and faculty. In October 2023, Forbes Advisor found that 60% of teachers used AI to aid their teaching responsibilities, and 55% reported that AI improved educational outcomes. 
+
+The Department of Education released a report on AI in education in May 2023, encouraging the development of policies supporting proper AI use in education. One of the major advantages of AI in education is the ability to address the variability of student learning. 
+
+AI allows teachers to provide more options for student learning, ensuring each student can be taught in the best way for them without taking away from others. 
+
+AI could be the cornerstone of education in the future, providing many opportunities for students to gain access to better education through this technology. However, there must be clear guidelines on how these materials are to be used by students.
+
+Students should use AI to help them connect with additional resources that a human teacher might struggle to provide. These examples can help guide them through difficult material and learning new skills. 
+
+Generative AI models like ChatGPT and DALL-E 2 cause the most concern within the realm of education. Students are able to generate entire essays in five minutes and, with a few minor tweaks, turn in a passable paper without doing any of the work.
+
+There are many issues with students writing essays with AI: they don’t learn the material, they don’t gain writing experience and they don’t develop the analytical skills that come from writing. However, this doesn’t mean that AI writing can’t be useful for students when learning how to produce quality writing.
+
+While there are several technical issues with using a generative AI to write essays, like the creation of fake sources, they can provide examples of how to communicate a particular point. 
+
+If a student is struggling to word a particular point, a generative model could help break the writer’s block. These AI-generated responses can help provide examples of what an essay could look like and give the student a starting off point for their writing.
+
+These large language models can also help multilingual students. Students learning English or other languages can use these models to practice having conversations in another language and get feedback on their grammar. 
+
+One of the biggest advantages of these AI technologies is their ability to create customized learning opportunities, helping students find the answers they need faster and more easily. These systems provide more chances to learn the material and go at their own pace.
+
+AI is a tool, not a content generator. You wouldn’t flip open a dictionary and scan a random page for your essay without some thought, so what’s the difference with AI?
